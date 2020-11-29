@@ -6,8 +6,6 @@
 from selenium import webdriver
 from time import sleep
 
-
-#main函数,程序运行入口
 if __name__ == "__main__":
     #浏览器初始化
     #1,python selenium 代码与Remote Server通过ChromeDrvier建立http通讯通道
